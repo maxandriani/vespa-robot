@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "cSpell.language": "en, pt, pt_BR",
+    "cSpell.words": [
+        "arduino"
+    ],
+    "arduino.additionalUrls": [
+        "https://dl.espressif.com/dl/package_esp32_index.json"
+    ]
+}
